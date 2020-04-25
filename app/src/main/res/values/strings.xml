@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Walkee</string>
+    <string name="user_name_or_email">Username or E-mail</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">E-mail</string>
+    <string name="login">Login</string>
+    <string name="verify_code">Verification Code</string>
+    <string name="send_verification">Send Verification Code</string>
+    <string name="list_devices">List of Devices</string>
+    <string name="add_device">Add Device</string>
+    <string name="back">Back</string>
+    <string name="complete_device_setup">Complete Device Setup</string>
+    <string name="add_new_device">Add New Device</string>
+    <string name="back_home">Back to Home</string>
+    <string name="add_device_title1">If the red light on it is blinking press the device setup button.</string>
+    <string name="add_device_title2">If the light is steady, enter the mac adress written the device. </string>
+    <string name="email_verify_title">Enter the your e-mail for verification code</string>
+    <string name="code_verify_title">Enter the verification code sent to your e-mail</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="device_setup">Start Device Setup</string>
+    <string name="device_setup_title">Setup Device</string>
+    <string name="register">Register</string>
+    <string name="mac_adress">Mac Adress</string>
+    <string name="ssid">DEVICE SSID</string>
+    <string name="ssid_pass">DEVICE SSID PASSWORD</string>
+    <string name="backToLogin">Back to login</string>
+    <string name="or">OR</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="setup_device_desc">The first step is to choose the DEVICE SSD called "Walke xxx" from the field below and enter the DEVICE SSD PASSWORD in the booklet.</string>
+</resources>
